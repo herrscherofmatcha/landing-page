@@ -1,1 +1,60 @@
-
+.header{
+    display: flex;
+    background: hotpink;
+}
+.left-side{
+    display: flex;
+}
+.logo{
+    background: pink;
+    padding: 10px;
+}
+.ul{
+    display: flex;
+}
+.li{
+    background: pink;
+    color: white;
+    align-items: center;
+    border: 5px;
+    padding: 1px;
+    flex-direction: row;
+}
+.container-one{
+    display: flex;
+}
+.big-text-one{
+    color: hotpink;
+    margin: 10px;
+}
+.small-text-one{
+    background: hotpink;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.button{
+    color: black;
+    background: lightgray;
+    border: white;
+    padding: 5px;
+    margin: 5px;
+}
+.random-text{
+    display: flex;
+    background: hotpink;
+    color: white;
+    padding: 5px;
+    border: black 5px;
+    margin: 10px;
+}
+.container-two{
+    display: flex;
+}
+.paragraph{
+    color: black;
+    background: white;
+    padding: 10px;
+    border: hotpink 10px;
+    margin: 15px;
+}
