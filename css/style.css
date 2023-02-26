@@ -48,6 +48,14 @@
     border: black 5px;
     margin: 10px;
 }
+.photos{
+    display: flex;
+    justify-content: space-around;
+}
+.photos-text{
+    display: flex;
+    justify-content: space-between;
+}
 .container-two{
     display: flex;
 }
@@ -57,4 +65,7 @@
     padding: 10px;
     border: hotpink 10px;
     margin: 15px;
+}
+.small-container{
+    display: flex;
 }
