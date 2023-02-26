@@ -69,3 +69,17 @@
 .small-container{
     display: flex;
 }
+.smaller-text{
+    background: lightgray;
+    color: white;
+    padding: 3px;
+    border: 1px white;
+    margin: 5px;
+}
+.footer{
+    background: hotpink;
+    color: white;
+    padding: 2px;
+    border: 1px;
+    margin: 8px;
+}
